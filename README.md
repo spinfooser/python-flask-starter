@@ -8,3 +8,4 @@ This project is evolving over times, but the goals are pretty stable:
 
 1. Show how to integration test database queries and controllers.
 2. Show how database migrations using yoyo work.
+3. Show how Blueprints can encourage DDD practices.
